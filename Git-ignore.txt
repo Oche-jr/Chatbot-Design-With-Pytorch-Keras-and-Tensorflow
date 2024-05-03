@@ -1,0 +1,2 @@
+C:\Users\HP\Class work python\Chatbot_ds\.conda\Lib
+C:\Users\HP\Class work python\Chatbot_ds\.conda\Library
